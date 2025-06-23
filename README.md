@@ -1,2 +1,4 @@
 # EDCB-encoding-Linux
 EDCB録画終了にCMカットエンコード
+
+JoinLogoScpTrialSetLinuxを使ってエンコードするスクリプトです。エンコードオプションなどは変更してお使い下さい。
